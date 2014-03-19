@@ -1,4 +1,4 @@
 Huffman
 =======
 
-Huffman Encoder/Decoder
+Encode/Decode data using the Huffman Tree algorithm.
